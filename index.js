@@ -1,1 +1,1 @@
-console.log("Carregador de celular explodiu no meu rosto")
+console.log("Quero um Headseat gamer pro1020 que brilha (mentira)")
