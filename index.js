@@ -1,1 +1,1 @@
-console.log("Canecaa")
+console.log("Carregador de celular explodiu no meu rosto")
